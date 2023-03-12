@@ -1,4 +1,4 @@
-# Solidity_2D_XO_game
+# Solidity_2D_XO_game (TicTacToe)
 A game of X's &amp; O's written in solidity and deployed on Ethereum as smart contract.
 
 - This is a simple code which will deploy perfectly on RemixIDE to give you a proper X-O game played by 2 players. 
